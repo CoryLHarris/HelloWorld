@@ -25,7 +25,7 @@ The following **optional** feature ideas are not yet implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with ...  
@@ -36,6 +36,7 @@ GIF created with ...
 
 The biggest challenge was setting up the Java JDK locally, as in prior projects I had used a very old version of Java, as well as issues with outdated Android Studio code
 I needed to add an explicit option into the setup files of Android Studio which was not needed in previous projects.
+Ultimately the other challenging part was adapting to github and git CLI token access rather than the old version of username password. 
 
 ## License
 
